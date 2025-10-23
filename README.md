@@ -92,10 +92,10 @@
 
 ### 官方资源
 
-- [免费课程PPT学习]([阿里云大数据分析师ACP认证_阿里云认证_阿里云培训中心-阿里云](https://edu.aliyun.com/certification/acp05?spm=a2cwt.28380597.J_1564692210.13.134934871tVVed))
+- [免费课程PPT学习](https://edu.aliyun.com/certification/acp05?spm=a2cwt.28380597.J_1564692210.13.134934871tVVed)
 - [配套视频课程资源](https://edu.aliyun.com/course/2570?spm=a2cwt.28196072.ACP05.18.296668d6vbL6Jh)
 - 考试大纲（请与ppt资源下方登录获取）
-- 相关题库和完整视频资源（可联系获取）
+- 相关题库和完整配套视频资源（可联系获取）
 
 ## [❓ 认证能证明什么能力](#-认证能证明什么能力)
 
